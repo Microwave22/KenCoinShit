@@ -8,7 +8,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "x4cc40e71ea71354b2e0ef62115e7ca59b9351c93",
+      "address": "0x4cc40e71ea71354b2e0ef62115e7ca59b9351c93",
       "name": "KenCoin",
       "symbol": "KEN",
       "decimals": 18,
